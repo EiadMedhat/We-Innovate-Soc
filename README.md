@@ -47,18 +47,12 @@ We welcome contributions from everyone! To contribute:
 3. Commit your changes
 4. Open a pull request
 
-Please check the [CONTRIBUTING.md](CONTRIBUTING.md) if available for detailed guidelines.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For questions, suggestions, or collaboration opportunities, feel free to contact:
 
 - **GitHub:** [EiadMedhat](https://github.com/EiadMedhat)
-- **Email:** (add your contact email here)
+- **Email:** [Gmail](eiadmedhat2004@gmail.com)
 
 ---
 
